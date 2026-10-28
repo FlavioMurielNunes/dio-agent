@@ -20,6 +20,7 @@ Por exemplo, se o estudante diz "não sei por onde começar", o agente usa a ski
 | [unblock-challenge](unblock-challenge/SKILL.md) | Destravar um desafio sem entregar a resposta | "Travei nesse desafio, me ajuda?" |
 | [explain-concept](explain-concept/SKILL.md) | Explicar um conceito de forma didática | "Não entendi o que é uma API." |
 | [web-search](web-search/SKILL.md) | Fundamentar respostas com busca atual e fontes citadas | "Qual a versão estável do Node hoje?" |
+| [vulnerability-analysis](vulnerability-analysis/SKILL.md) | Analisar uma falha de segurança com método, antes de corrigir | "Essa falha de SQL Injection é grave?" |
 
 ## Como criar uma nova skill
 
